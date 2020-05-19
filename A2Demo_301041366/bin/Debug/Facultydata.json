@@ -1,0 +1,281 @@
+[
+  {
+    "emailAddress": [
+      "fac1@cencol.ca",
+      "fac1@acme.ca",
+      "fac1@gmail.ca",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "courses": [
+      {
+        "Subject": 0,
+        "Number": 100,
+        "Title": "Programming 1",
+        "CourseCode": "COMP100"
+      },
+      {
+        "Subject": 0,
+        "Number": 123,
+        "Title": "Programming 2",
+        "CourseCode": "COMP123"
+      },
+      {
+        "Subject": 2,
+        "Number": 200,
+        "Title": "Oracle DB",
+        "CourseCode": "CECP200"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "EmployeeNumber": 1,
+    "Address": {
+      "StreetAddress": "11 Elm St",
+      "City": "Toronto",
+      "Province": "ON"
+    },
+    "Name": "Bob",
+    "StartOfEmployment": "2010-01-01T00:00:00",
+    "TelephonNumber": 41612345678.0,
+    "EmailAddress": [
+      "fac1@cencol.ca",
+      "fac1@acme.ca",
+      "fac1@gmail.ca",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Courses": [
+      {
+        "Subject": 0,
+        "Number": 100,
+        "Title": "Programming 1",
+        "CourseCode": "COMP100"
+      },
+      {
+        "Subject": 0,
+        "Number": 123,
+        "Title": "Programming 2",
+        "CourseCode": "COMP123"
+      },
+      {
+        "Subject": 2,
+        "Number": 200,
+        "Title": "Oracle DB",
+        "CourseCode": "CECP200"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "NoOfCourses": 3
+  },
+  {
+    "emailAddress": [
+      "fac2@cencol.ca",
+      "fac2@abc.ca",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "courses": [
+      {
+        "Subject": 0,
+        "Number": 123,
+        "Title": "Programming 2",
+        "CourseCode": "COMP123"
+      },
+      {
+        "Subject": 2,
+        "Number": 200,
+        "Title": "Oracle DB",
+        "CourseCode": "CECP200"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "EmployeeNumber": 2,
+    "Address": {
+      "StreetAddress": "22 Queen St",
+      "City": "Toronto",
+      "Province": "ON"
+    },
+    "Name": "Ann",
+    "StartOfEmployment": "2012-02-02T00:00:00",
+    "TelephonNumber": 4162345678.0,
+    "EmailAddress": [
+      "fac2@cencol.ca",
+      "fac2@abc.ca",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Courses": [
+      {
+        "Subject": 0,
+        "Number": 123,
+        "Title": "Programming 2",
+        "CourseCode": "COMP123"
+      },
+      {
+        "Subject": 2,
+        "Number": 200,
+        "Title": "Oracle DB",
+        "CourseCode": "CECP200"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "NoOfCourses": 2
+  },
+  {
+    "emailAddress": [
+      "fac3@cencol.ca",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "courses": [
+      {
+        "Subject": 1,
+        "Number": 100,
+        "Title": "Business communications",
+        "CourseCode": "BSAF100"
+      },
+      {
+        "BreakEvenEnrolement": 10,
+        "Subject": 1,
+        "Number": 111,
+        "Title": "CloudServices",
+        "CourseCode": "BSAF111"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "EmployeeNumber": 3,
+    "Address": {
+      "StreetAddress": "33 King St",
+      "City": "Toronto",
+      "Province": "ON"
+    },
+    "Name": "John",
+    "StartOfEmployment": "2013-03-03T00:00:00",
+    "TelephonNumber": 41613456789.0,
+    "EmailAddress": [
+      "fac3@cencol.ca",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Courses": [
+      {
+        "Subject": 1,
+        "Number": 100,
+        "Title": "Business communications",
+        "CourseCode": "BSAF100"
+      },
+      {
+        "BreakEvenEnrolement": 10,
+        "Subject": 1,
+        "Number": 111,
+        "Title": "CloudServices",
+        "CourseCode": "BSAF111"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "NoOfCourses": 2
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+]
